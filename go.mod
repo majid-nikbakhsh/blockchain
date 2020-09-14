@@ -1,3 +1,3 @@
-module github.com/majid-nikbakhsh/blockchain
+module github.com/ndevelop/blockchain
 
 go 1.14

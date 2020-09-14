@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/majid-nikbakhsh/blockchain/core"
+	"github.com/ndevelop/blockchain/core"
 )
 
 func main() {
